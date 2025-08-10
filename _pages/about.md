@@ -10,10 +10,10 @@ redirect_from:
 ### Hi there!
 Welcome to the website of **Diaz Tang**.
 
-Main interests include:
-**· 🎮 Game:** Switch / Playstation 5 / PC.
-**· ⛺️ Travel:** Self-driving tour / Japan (Tokyo/Osaka)
-**· 🌍 Do Projects:** Portfolio on Social Phenomena / Server Development (MineCraft)
+Main interests include:<br>
+**· 🎮 Game:** Switch / Playstation 5 / PC.<br>
+**· ⛺️ Travel:** Self-driving tour / Japan (Tokyo/Osaka)<br>
+**· 🌍 Do Projects:** Portfolio on Social Phenomena / Server Development (MineCraft)<br>
 
 Thank you for visiting!
 
